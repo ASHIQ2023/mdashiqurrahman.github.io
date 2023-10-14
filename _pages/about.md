@@ -3,7 +3,7 @@ permalink: /
 <div style="text-align: center;">
 title: ""What I cannot create, I do not understand." by Richard P. Feynman"
 </div>
-excerpt: "About me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
