@@ -6,7 +6,7 @@ title: ""What I cannot create, I do not understand." by Richard P. Feynman"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /About Me/
   - /about.html
 ---
 
