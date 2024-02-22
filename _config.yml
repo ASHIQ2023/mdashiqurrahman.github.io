@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Webpage"
+title                    : "Ashiq's Homepage"
 title_separator          : "-"
-name                     : &name "MD ASHIQUR RAHMAN"
+name                     : &name "Md Ashiqur Rahman"
 description              : &description "personal description"
 url                      : "https://ashiq2023.github.io/mdashiqurrahman.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "MD ASHIQUR RAHMAN"
+  name             : "Md Ashiqur Rahman"
   avatar           : "profile_photo.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Sirajganj, Bangladesh"
